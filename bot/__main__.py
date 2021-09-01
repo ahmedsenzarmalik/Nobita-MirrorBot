@@ -56,8 +56,7 @@ Type /{BotCommands.HelpCommand} to get a list of available commands
     uptime = get_readable_time((time.time() - botStartTime))
     if CustomFilters.authorized_user(update) or CustomFilters.authorized_chat(update):
         if update.message.chat.type == "private" :
-            sendMessage(f"Hey I'm Alive 🙂\nSince: <code>{uptime}</code>",
-                       (f"Owner : <code>{Owner}</code>" context.bot, update))
+            sendMessage(f"Hey I'm Alive 🙂\nSince: <code>{uptime}</code>\n Owner:<code>{owner}</code> ", context.bot, update))
         else :
             sendMarkup(start_string, context.bot, update, reply_markup)
     else :
