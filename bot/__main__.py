@@ -12,7 +12,7 @@ from telegram.ext import CommandHandler
 from wserver import start_server_async
 from bot import bot, dispatcher, updater, botStartTime, IGNORE_PENDING_REQUESTS, IS_VPS, SERVER_PORT
 from bot.helper.ext_utils import fs_utils
-from bot.modules import logox.png
+from bot.modules import IMAGE_URL
 from bot.helper.telegram_helper.bot_commands import BotCommands
 from bot.helper.telegram_helper.message_utils import *
 from .helper.ext_utils.bot_utils import get_readable_file_size, get_readable_time
@@ -59,7 +59,7 @@ Type /{BotCommands.HelpCommand} to get a list of available commands
         if update.message.chat.type == "private" :
             sendMessage(f"Hey I'm Alive 🙂\nSince: <code>{uptime}</code>", context.bot, update)
         else :
-            sendMarkup(logox.png, start_string, context.bot, update, reply_markup)
+            sendMarkup(IMAGE_URL, start_string, context.bot, update, reply_markup)
     else :
         sendMarkup(f"Oops! You are not allowed to use me.</b>.", context.bot, update, reply_markup)
 
