@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Link for Bot Upstream Repo, Don't change it, Fill https://github.com/nobita-o/Nobita-Mirror-Bot.",
-        "value": "https://github.com/nobita-o/Nobita-Mirror-Bot",
+        "value": "https://github.com/nobita-o/Nobita-MirrorBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -135,54 +135,14 @@
       "IGNORE_PENDING_REQUESTS": {
         "description": "If you want the bot to ignore pending requests after it restarts, set this to True.",
         "required": false
-      },
-      "SHORTENER": {
-        "description": "If you want to use shortener in Gdrive and index link.",
-        "required": false
-      },
-      "SHORTENER_API": {
-        "description": "Fill your shortener api key if you are using shortener.",
-        "required": false
        },
       "TOKEN_PICKLE_URL": {
         "description": "(Optional) Only if you want to load your token.pickle externally from an index link. Fill this with the direct link of that file.",
         "required": false
       },
-      "ACCOUNTS_ZIP_URL": {
-        "description": "(Optional) Only if you want to load your service accs externally from an index link. Archive your service accs json files to a zip file directly (don't archive the accounts folder. Select all the jsons inside and zip them only instead. Name the zip file with whatever you want, it doesn't matter). Fill this with the direct link of that file.",
-        "required": false
-      },
       "VIEW_LINK": {
         "description": "View Link button to open file Index Link in browser instead of direct download link, you can figure out if it's compatible with your Index code or not, open any video from you Index and check if the END of link from browser link bar is ?a=view, if yes make it True it will work (Compatible with Bhadoo Index Code).",
         "value": "False",
-        "required": false
-       },
-      "BUTTON_FOUR_NAME": {
-        "description": "Extra buttons (optional).",
-        "required": false
-      },
-      "BUTTON_FOUR_URL": {
-        "description": "Fill your URL if you are using extra buttons.",
-        "required": false
-      },
-      "BUTTON_FIVE_NAME": {
-        "description": "Extra buttons (optional).",
-        "required": false
-      },
-      "BUTTON_FIVE_URL": {
-        "description": "Fill your URL if you are using extra buttons.",
-        "required": false
-      },
-      "BUTTON_SIX_NAME": {
-        "description": "Extra buttons (optional).",
-        "required": false
-      },
-      "BUTTON_SIX_URL": {
-        "description": "Fill your URL if you are using extra buttons.",
-        "required": false
-      },
-      "STATUS_LIMIT": {
-        "description": "Status limit with buttons, Recommend limit status to 4 tasks max.",
         "required": false
       },
       "BASE_URL_OF_BOT": {
