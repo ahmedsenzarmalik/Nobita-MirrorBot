@@ -7,8 +7,8 @@
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/Nobita-o/Nobita-Mirror-Bot",
-    "website": "https://github.com/Nobita-o/Nobita-Mirror-Bot",
+    "repository": "https://github.com/Nobita-o/Nobita-MirrorBot",
+    "website": "https://github.com/Nobita-o/Nobita-MirrorBot",
     "success_url": "https://t.me/nobita_o",
     "stack": "container",
     "env": {
@@ -79,7 +79,7 @@
         "required": true
       },
       "UPSTREAM_REPO": {
-        "description": "Link for Bot Upstream Repo, Don't change it, Fill https://github.com/nobita-o/Nobita-Mirror-Bot.",
+        "description": "Link for Bot Upstream Repo, Don't change it, Fill https://github.com/nobita-o/Nobita-MirrorBot.",
         "value": "https://github.com/nobita-o/Nobita-MirrorBot",
         "required": true
       },
