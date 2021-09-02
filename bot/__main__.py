@@ -51,7 +51,7 @@ def start(update, context):
     if CustomFilters.authorized_user(update) or CustomFilters.authorized_chat(update):
         start_string = f'''
 This bot can mirror all your links to Google Drive!
-Type /{BotCommands.HelpCommand} to get a list of available commands.\nOWNER <a href="https://t.me/nobita_o">NOBITA </a>
+Type /{BotCommands.HelpCommand} to get a list of available commands.\n\nOWNER <a href="https://t.me/nobita_o">NOBITA </a>
 '''
         sendMarkup(start_string, context.bot, update, reply_markup)
     else:
