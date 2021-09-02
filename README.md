@@ -1,4 +1,4 @@
-###[![Nobita](https://telegra.ph/file/243a87c8a42dde483b359.jpg)](https://nobita_o)
+### [![Nobita](https://telegra.ph/file/243a87c8a42dde483b359.jpg)](https://nobita_o)
 
 ### [![Powered By](https://img.shields.io/badge/POWERED-BY--NOBITA-red?logo=success&style=for-the-badge&logo)](https://t.me/nobita_o)
 
