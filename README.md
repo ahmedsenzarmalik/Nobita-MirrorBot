@@ -8,10 +8,10 @@
 [![mailid badge](https://img.shields.io/badge/NOBITA-30302f?style=for-the-badge&logo=gmail)](mailto:nobitaxw@gmail.com)
 
 
-![GitHub Repo stars](https://img.shields.io/github/stars/nobita-o/nobita-mirrorbot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/nobita-o/nobita-mirrorbot?color=green&style=flat)
-![GitHub contributors](https://img.shields.io/github/contributors/nobita-o/nobita-mirrorbot?style=flat)
-![GitHub watchers](https://img.shields.io/github/watchers/nobita-o/nobita-mirrorbot)
+![GitHub Repo stars](https://img.shields.io/github/stars/nobita-o/Nobita-MirrorBot?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/nobita-o/Nobita-MirrorBot?color=green&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/Nobita-o/Nobita-MirrorBot?style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/nobita-o/Nobita-MirrorBot)
 [![Contactl](https://img.shields.io/badge/Contact%20Mel-!-red)](https://t.me/nobita_o)
 
 #####
