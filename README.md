@@ -15,7 +15,7 @@
 [![Contactl](https://img.shields.io/badge/Contact%20Mel-!-red)](https://t.me/nobita_o)
 
 #####
-[![Attention badge](https://img.shields.io/badge/QBITTORRENT--ADDED-30302f?style=for-the-badge&logo=attention)](https://:t.me/nobita_o)
+[![Attention badge](https://img.shields.io/badge/QBITTORRENT--ADDED-FFFFFF?style=for-the-badge&logo=attention)](https://:t.me/nobita_o)
 
 **Nobita Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
