@@ -14,7 +14,8 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/nobita-o/nobita-mirrorbot)
 [![Contactl](https://img.shields.io/badge/Contact%20Mel-!-red)](https://t.me/nobita_o)
 
-### QBittorrent Added 🇧🇩
+#####
+[![Attention badge](https://img.shields.io/badge/QBITTORRENT--ADDED-30302f?style=for-the-badge&logo=attention)](https://:t.me/nobita_o)
 
 **Nobita Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
@@ -140,7 +141,8 @@ Three buttons are already added of Drive Link, Index Link, and View Link, you ca
 
 ## Deploying on Heroku
 
-- Heroku Deploy is easy peasy! 😅 Just 👇
+- Heroku Deploy is easy peasy! 😅 
+- Just 👇
 - Give stars and Fork this repo then upload **token.pickle** to your forks, (**NOTE**: If you didn't upload **token.pickle** uploading will not work).
 - Hit the **DEPLOY TO HEROKU** button and follow the further instructions in the screen
 - Recommended to use 1 App in 1 Heroku accounts
