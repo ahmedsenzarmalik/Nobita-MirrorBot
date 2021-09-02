@@ -140,7 +140,7 @@ Three buttons are already added of Drive Link, Index Link, and View Link, you ca
 
 ## Deploying on Heroku
 
-- Heroku Deploy is easy pezy! 😅 Just 👇
+- Heroku Deploy is easy peasy! 😅 Just 👇
 - Give stars and Fork this repo then upload **token.pickle** to your forks, (**NOTE**: If you didn't upload **token.pickle** uploading will not work).
 - Hit the **DEPLOY TO HEROKU** button and follow the further instructions in the screen
 - Recommended to use 1 App in 1 Heroku accounts
